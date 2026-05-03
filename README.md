@@ -43,7 +43,7 @@
 ## 🔗 Find Me Online
 - [LinkedIn](https://www.linkedin.com/in/tiennc2310)
 - [LeetCode](https://leetcode.com/u/NguyenTien7/)
-- Contact me via Gmail: [tien.nguyenchu@richmond.edu](mailto:tien.nguyenchu@richmond.edu)
+- Contact me via Gmail: [tiennc23@gmail.com](mailto:tiennc23@gmail.com)
 ---
 
 ## 📢 Bio
