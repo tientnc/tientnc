@@ -27,6 +27,7 @@
 
 ## 🌱 Currently Working On
 - **Argumentation Research**
+- **Summarization/Fact-checking Research**
 - **Robot Sampling Research**
 - **Compactness Research**
 - **Efficient ChatBot/Language Model**
