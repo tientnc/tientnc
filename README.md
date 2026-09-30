@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tien Nguyen!
 
-🎓 **Student @ University of Richmond**  | **Exchange @ University of Edinburgh**
+🎓 **Student @ University of Richmond**  | **Enjoying @ University of Edinburgh**
 
 💻 **Passionate about coding, problem-solving, and making an impact through technology**
 
