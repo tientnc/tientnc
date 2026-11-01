@@ -45,14 +45,10 @@
 ## 🔗 Find Me Online
 - [LinkedIn](https://www.linkedin.com/in/tiennc2310)
 - [LeetCode](https://leetcode.com/u/NguyenTien7/)
-- Contact me via Gmail: [tien.nguyenc23@gmail.com](mailto:tien.nguyenc23@gmail.com)
+- Contact me via Gmail: [tiennc23@gmail.com](mailto:tiennc23@gmail.com)
 ---
 
 ## 📢 Bio
 I am an enthusiastic undergraduate student eager for opportunities to join and contribute to impactful projects. I love learning new things and collaborating with others to solve challenging problems!
 
 ---
-
-<!--
-**tiennguyen2310/tiennguyen2310** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
